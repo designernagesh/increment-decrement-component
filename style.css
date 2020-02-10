@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, p {
+  font-family: Lato;
+}
+.qtyComponent{
+  display: flex 
+}
+button{
+  border: 1px solid #CCC;
+  font-size: 18px;
+  width: 45px; height: 45px
+}
+.qtyCount{
+  border: 1px solid #CCC;
+  font-size: 24px;
+  height: 43px; text-align: center; padding: 0 35px;
+  display: flex; justify-content: center; align-items: center;
+}
+
